@@ -1,2 +1,2 @@
-# ecommerce-nextjs
-ecommerce-nextjs
+web ecommerce-nextjs
+web
